@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Speech Emotion Recognition
 ## Introduction
 - This repository handles building and training Speech Emotion Recognition System.
@@ -262,3 +263,7 @@ plot_histograms(classifiers=True)
   journal      = {GitHub repository},
   url          = {https://github.com/x4nth055/emotion-recognition-using-speech}
 }
+=======
+# Emotion-Recognition-Using-Audio-Clips
+Through all the available senses, humans can sense the emotional state of their communication partner.It is a system through which various audio speech files are classified into different emotions such as happy, sad, anger and neutral by computers.
+>>>>>>> cde13ee87b9337afb408192e6985eacd793c5bd9
